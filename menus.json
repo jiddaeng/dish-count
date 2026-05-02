@@ -1,0 +1,26 @@
+[
+    {
+        "kind":"라면", 
+        "menu":[
+            {"menuName":"지호라면", "id":"fkaus1", "price":20000, "soldout":"False", "img":"/fkaus1.jpg"}, 
+            {"menuName":"테스트라면","id":"fkaus2", "price":20000, "soldout":"False", "img":"/fkaus2.png"}, 
+            {"menuName":"아빠라면", "id":"fkaus3", "price":2000, "soldout":"False", "img":"/fkaus3.jpg"}
+        ]
+    },
+
+    {
+        "kind":"햄버거",
+        "menu":[
+            {"menuName":"지호햄버거", "id":"goaqjrj1", "price":10000, "soldout":"False", "img":"/goaqjrj1.jpg"},
+            {"menuName":"테스트햄버거", "id":"goaqjrj2", "price":10000, "soldout":"False", "img":"/goaqjrj2.jpg"},
+            {"menuName":"윤호햄버거", "id":"goaqjrj3", "price":100, "soldout":"True", "img":"/goaqjrj3.jpg"}
+        ]
+    }, 
+    {
+        "kind":"김밥",
+        "menu":[
+            {"menuName":"지호김밥", "id":"rlaqkq1", "price":10000, "soldout":"True", "img":"/rlaqkq1.jpg"},
+            {"menuName":"엄마김밥", "id":"rlaqkq2", "price":1000, "soldout":"False", "img":"/rlaqkq2.jpg"}
+        ]
+    }
+]
